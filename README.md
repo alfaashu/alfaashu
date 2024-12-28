@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaashu
-- 👀 I’m interested in exploring and learning new technology.
+- 👀 I’m interested in exploring and learning Software Engineering.
 - 🌱 I’m currently learning FullStack Web Development
 - 💞️ I’m looking to collaborate on open-source projects and innovative web development initiatives.
 - 📫 How to reach me: 09alfaashu@gmail.com or connect with me on https://www.linkedin.com/in/ashish-sinsinwar-818738184/.
